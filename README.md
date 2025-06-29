@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains lab assignments and projects for the Enterprise Application Development course. It showcases various enterprise-level application development concepts, patterns, and implementation.
+This repository contains lab assignments and projects for the Enterprise Application Development course. It showcases various enterprise-level application development concepts, patterns, and implementationss.
 
 ## Table of Contents
 
