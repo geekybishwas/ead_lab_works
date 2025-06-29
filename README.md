@@ -29,16 +29,16 @@ npm install
 
 ## Usage
 
-Instructions on how to run the projects and assignments in this repository:
+Follow these steps to run the projects and assignments in this repository:
 
 ```bash
-# Run development server
+# Start the development server
 npm run dev
 
-# Build for production
+# Build the project for production
 npm run build
 
-# Run tests
+# Execute tests
 npm test
 ```
 
@@ -55,26 +55,26 @@ ead_lab_work/
 
 ## Features
 
-- Feature 1: Brief description
-- Feature 2: Brief description
-- Feature 3: Brief description
+- Modular and scalable codebase
+- Implementation of enterprise-level design patterns
+- Integration with modern technologies and frameworks
 
 ## Technologies Used
 
-- Frontend: React.js, Angular, or Vue.js
-- Backend: Node.js, Express, Spring Boot
-- Database: MongoDB, MySQL, PostgreSQL
-- Authentication: JWT, OAuth
-- Deployment: Docker, Kubernetes
+- **Frontend:** React.js, Angular, Vue.js
+- **Backend:** Node.js, Express, Spring Boot
+- **Database:** MongoDB, MySQL, PostgreSQL
+- **Authentication:** JWT, OAuth
+- **Deployment:** Docker, Kubernetes
 
 ## Contributing
 
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add some amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
+1. Fork the repository.
+2. Create a feature branch (`git checkout -b feature/amazing-feature`).
+3. Commit your changes (`git commit -m 'Add some amazing feature'`).
+4. Push to the branch (`git push origin feature/amazing-feature`).
+5. Open a Pull Request.
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License. See the LICENSE file for more details.
